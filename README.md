@@ -1,2 +1,2 @@
 # WebCoding
-HTML CSS &amp; JS
+CSS
